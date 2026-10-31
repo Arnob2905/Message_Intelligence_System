@@ -132,12 +132,4 @@ The preferred trade-off depends on the application.
 -   Before deployment, validate on fresh messages, monitor changes in
     message patterns, and provide a way to report false classifications.
 
-## Submission Checklist
 
--   [ ] Run all cells successfully.
--   [ ] Check that dataset paths are correct.
--   [ ] Confirm charts and evaluation tables are displayed.
--   [ ] Save the executed notebook with outputs.
--   [ ] Include this README in the GitHub repository.
--   [ ] Base final conclusions on the measured results from the executed
-    notebook.
